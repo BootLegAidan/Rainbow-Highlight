@@ -1,0 +1,6 @@
+*::selection {
+  background: var(--color);
+}
+:root {
+  --color: red;
+}
